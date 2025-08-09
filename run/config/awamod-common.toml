@@ -1,0 +1,4 @@
+#Interval in ticks between thirst decrements (default: 600 = 30 seconds)
+#Range: 100 ~ 24000
+thirstDecrementInterval = 600
+

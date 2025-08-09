@@ -1,0 +1,6 @@
+{
+  "death.attack.awamod.bleed_damage": "%1$s 失血过多而亡",
+  "death.attack.awamod.bleed_damage.player": "%1$s 被 %2$s 放血致死",
+  "itemGroup.awamod.awa_tab": "awa?",
+  "item.awamod.sausage": "sausage"
+}
